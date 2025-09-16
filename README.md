@@ -1,6 +1,6 @@
 # RFID-Based Smart Hall Ticket / ID Verifier with Seat Allocation  
 
-## 📌 Project Overview  
+##  Project Overview  
 This project is an **RFID-based verification and seat allocation system** designed for exam halls, events, or secured entry points.  
 Each student/participant is issued an RFID card, which is scanned at the entrance.  
 The system validates authenticity, displays details on an LCD, and allocates a seat number.  
@@ -8,7 +8,7 @@ Unauthorized cards are denied access.
 
 ---
 
-## 🎯 Objectives  
+##  Objectives  
 - Automate hall ticket/ID verification using RFID technology.  
 - Allocate seat numbers securely and instantly.  
 - Reduce manual verification errors and delays.  
@@ -17,7 +17,7 @@ Unauthorized cards are denied access.
 
 ---
 
-## 🛠️ Components Used  
+##  Components Used  
 - Arduino Uno / Mega  
 - RFID Reader (RC522 Module)  
 - RFID Tags / Cards  
@@ -27,7 +27,7 @@ Unauthorized cards are denied access.
 
 ---
 
-## ⚙️ Working Principle  
+##  Working Principle  
 1. Student scans RFID card at the reader.  
 2. Arduino reads the UID and compares it with stored data.  
 3. If valid → LCD displays **Name + Seat Number**.  
@@ -36,7 +36,7 @@ Unauthorized cards are denied access.
 
 ---
 
-## ✅ Features  
+##  Features  
 - Fast and reliable student verification.  
 - Automatic seat number allocation.  
 - Easy integration with admin dashboard.  
@@ -45,12 +45,8 @@ Unauthorized cards are denied access.
 
 ---
 
-## 🚀 Future Enhancements  
+##  Future Enhancements  
 - Web-based dashboard for real-time monitoring.  
 - Database integration (MySQL/Firebase).  
 - QR/Barcode + RFID hybrid verification.  
 - Cloud-based attendance system.  
-
----
-
-## 📂 Repository Structure  
