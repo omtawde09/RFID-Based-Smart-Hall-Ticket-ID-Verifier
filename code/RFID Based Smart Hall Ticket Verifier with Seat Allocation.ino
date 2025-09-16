@@ -20,12 +20,12 @@ struct Student {
 
 // Example UIDs (replace with yours)
 Student students[] = {
-  {"961B1D0", "Amit", 16, false},
-  {"60B9A7A5", "Sumit", 34, false},
-  {"46FCAA721A90", "Yajat", 59, false},
-  {"2189FD466800", "Tanay", 24, false},
-  {"48560C2D25E80", "Sujal", 33, false},
-  {"E7BD89", "Master", false}
+//{"2189FD466800", "Rahul", 21, false},
+  {"Card-ID", "Student-Name", Seat-No, false},
+  {"Card-ID", "Student-Name", Seat-No, false},
+  {"Card-ID", "Student-Name", Seat-No, false},
+  {"Card-ID", "Student-Name", Seat-No, false},
+  {"Card-ID", "Student-Name", Seat-No, false},
 };
 int studentCount = sizeof(students) / sizeof(students[0]);
 
