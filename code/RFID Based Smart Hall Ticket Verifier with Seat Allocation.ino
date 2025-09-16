@@ -9,7 +9,7 @@ MFRC522 mfrc522(SS_PIN, RST_PIN);
 
 // LCD pins: RS, E, D4, D5, D6, D7
 LiquidCrystal lcd(7, 6, 5, 4, 3, 2);
-
+egregregrebfd
 // ---- Student Database ----
 struct Student {
   String uid;
