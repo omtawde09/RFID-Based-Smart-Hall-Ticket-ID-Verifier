@@ -1,0 +1,2 @@
+# RFID-Based-Smart-Hall-Ticket-ID-Verifier-with-Seat-Allocation
+This project is an RFID-based verification and seat allocation system designed for exam halls, events, or secured entry points. Each student/participant is issued an RFID card, which is scanned at the entrance. The system validates authenticity, displays details on an LCD, and allocates a seat number. Unauthorized cards are denied access.
