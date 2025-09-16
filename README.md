@@ -32,7 +32,6 @@ Unauthorized cards are denied access.
 2. Arduino reads the UID and compares it with stored data.  
 3. If valid → LCD displays **Name + Seat Number**.  
 4. If invalid → LCD shows **Access Denied** with buzzer alert.  
-5. Admin dashboard (optional) can display logs with **Name, Roll No, Time of Entry**.  
 
 ---
 
